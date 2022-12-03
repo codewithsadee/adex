@@ -1,0 +1,210 @@
+Adex 
+
+This is a business agency html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Adex home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Projects
+Blog
+Contact
+
+info@email.com
+00 (123) 456 78 90
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Free Trial
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Crafting project specific solutions with expertise.
+
+We’re a creative company that focuses on establishing long-term relationships with customers.
+
+Explore Now
+Contact Us
+
+alt = hero banner
+
+aria-label = play adex intro
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+aria-label = slide to previous
+<ion-icon name="arrow-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="arrow-forward"></ion-icon>
+
+
+
+#---------- SERVICE ----------#
+
+What We Do?
+
+The service we offer is specifically designed to meet your needs.
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+24/7 Support
+Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus cras justo.
+
+Learn More
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
+Secure Payments
+
+<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
+Daily Updates
+
+<ion-icon name="pie-chart-outline" aria-hidden="true"></ion-icon>
+Market Research
+
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+Why Choose Us?
+
+We bring solutions to make life easier for our clients.
+
+<ion-icon name="chevron-down-outline" aria-hidden="true" class="down"></ion-icon>
+Professional Design
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
+
+Top-Notch Support
+
+Exclusive Assets
+
+
+
+#---------- FEATURE ----------#
+
+alt = feature banner
+
+Our Solutions
+
+We make your spending stress-free for you to have the perfect control.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus.
+
+<ion-icon name="checkmark" aria-hidden="true"></ion-icon>
+Aenean quam ornare. Curabitur blandit.
+
+Nullam quis risus eget urna mollis ornare.
+
+Etiam porta euismod malesuada mollis.
+
+Vivamus sagittis lacus vel augue rutrum.
+
+
+
+#---------- STATS ----------#
+
+7518
+Completed Projects
+
+3472
+Happy Customers
+
+2184
+Expert Employees
+
+4523
+Awards Won
+
+
+
+#---------- PROJECTS ----------#
+
+Case Studies
+
+Check out some of our awesome projects with creative ideas and great design.
+
+alt = Ligula tristique quis risus
+
+Ligula tristique quis risus
+
+Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+14 Apr 2022
+
+<ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
+Coding
+
+alt = Nullam id dolor elit id nibh
+
+Nullam id dolor elit id nibh
+
+29 Mar 2022
+Workspace
+
+alt = Ultricies fusce porta elit
+
+Ultricies fusce porta elit
+
+26 Feb 2022
+Meeting
+
+
+
+#---------- CTA ----------#
+
+Join our community by using our services and grow your business.
+
+Try it For Free
+
+
+
+#---------- FOOTER ----------#
+
+alt = Adex home
+&copy; 2022 codewithsadee. All rights reserved.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Get in Touch
+Moonshine St. 14/05 Light City, London, United Kingdom
+
+info@email.com
+00 (123) 456 78 90
+
+Learn More
+
+About Us
+Our Story
+Projects
+Terms of Use
+Privacy Policy
+
+Our Newsletter
+Subscribe to our newsletter to get our news & deals delivered to you.
+
+placeholder = Email Address
+Join
